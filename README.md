@@ -15,3 +15,8 @@ In this report, I invite you to join me on this journey as we explore the proces
 5. Design and add visuals
 6. Implement DAX Code to link visuals
 7. Dashboard Design
+
+# Full Report
+For a detailed overview of the project, including methodology and results, please refer to the full report:[Report.pdf](https://github.com/Avivaswani09/Spotify-Wrapped/files/15377990/dstproject3.pdf)
+
+
