@@ -16,6 +16,13 @@ In this report, I invite you to join me on this journey as we explore the proces
 6. Implement DAX Code to link visuals
 7. Dashboard Design
 
+# Dashboard Designs
+<img width="960" alt="spotipyss" src="https://github.com/Avivaswani09/Spotify-Wrapped-PowerBI-Dashboard/assets/76449960/2ff8b756-7621-42b2-a59e-a51921ba05d2">
+<img width="670" alt="spotipy1" src="https://github.com/Avivaswani09/Spotify-Wrapped-PowerBI-Dashboard/assets/76449960/b80bdd66-df9a-489d-b205-15028261c3f5">
+
+<img width="725" alt="api_ss" src="https://github.com/Avivaswani09/Spotify-Wrapped-PowerBI-Dashboard/assets/76449960/dc15dbe7-3673-45f2-898a-e3aecab2e182">
+<img width="351" alt="DAX_ss" src="https://github.com/Avivaswani09/Spotify-Wrapped-PowerBI-Dashboard/assets/76449960/b9d0ae05-1bf0-483b-ac42-9b3344797dea">
+
 # Full Report
 For a detailed overview of the project, including methodology and results, please refer to the full report:[Report.pdf](https://github.com/Avivaswani09/Spotify-Wrapped/files/15377990/dstproject3.pdf)
 
