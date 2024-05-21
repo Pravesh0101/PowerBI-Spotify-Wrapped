@@ -19,10 +19,10 @@ In this report, I invite you to join me on this journey as we explore the proces
 <img width="351" alt="DAX_ss" src="https://github.com/Avivaswani09/Spotify-Wrapped-PowerBI-Dashboard/assets/76449960/b9d0ae05-1bf0-483b-ac42-9b3344797dea">
 
 
-8. Dashboard Design\n
-   (i)Design 1 \n
+8. Dashboard Design\
+   (i)Design 1 \
 <img width="960" alt="spotipyss" src="https://github.com/Avivaswani09/Spotify-Wrapped-PowerBI-Dashboard/assets/76449960/2ff8b756-7621-42b2-a59e-a51921ba05d2">
-   (ii)Design 2 \n
+   (ii)Design 2 \
 <img width="670" alt="spotipy1" src="https://github.com/Avivaswani09/Spotify-Wrapped-PowerBI-Dashboard/assets/76449960/b80bdd66-df9a-489d-b205-15028261c3f5">
 
 # Full Report
