@@ -23,7 +23,8 @@ In this report, I invite you to join me on this journey as we explore the proces
    (i)Design 1<br/>
 <img width="960" alt="spotipyss" src="https://github.com/Avivaswani09/Spotify-Wrapped-PowerBI-Dashboard/assets/76449960/2ff8b756-7621-42b2-a59e-a51921ba05d2">
 
-   __(ii)Design 2<br/>
+   (ii)Design 2<br/>
+   
 <img width="670" alt="spotipy1" src="https://github.com/Avivaswani09/Spotify-Wrapped-PowerBI-Dashboard/assets/76449960/b80bdd66-df9a-489d-b205-15028261c3f5">
 
 # Full Report
